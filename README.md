@@ -3,5 +3,5 @@
 hasil akurasi
 - 74%
 kenapa akurasi sangat rendah karena gambar yang saya train sangat sedikit masing hanya 3 gambar
-#hasil prediksi
-![Alt text](.hasilPrediksi.png)
+# hasil prediksi
+![Preview](https://raw.githubusercontent.com/inc0878/TF_gambarBumbuDapur/main/hasilPrediksi.png)
